@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
 
 gem 'bad_link_finder'
-gem 'psych'
+gem 'psych', '>= 2.0.17'
